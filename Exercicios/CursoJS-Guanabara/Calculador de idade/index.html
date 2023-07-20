@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Idade</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    
+
+    <header>
+        <h1>Verificador de Idade</h1>
+    </header>
+
+    <section>
+        <div>
+            <p>Data de aniversario:
+                <input type="number" class="aniversario dia" name="texto_dia" id="texto_dia" min="0">/
+                <input type="number" class="aniversario mes" name="texto_mes" id="texto_mes" min="0">/
+                <input type="number" class="aniversario ano" name="texto_ano" id="texto_ano" min="0">
+
+            </p>
+
+            <p>Sexo:
+                <input type="radio" name="radio_sex" id="masculino" checked>
+                <label for="masculino">Mascolino</label>
+                <input type="radio" name="radio_sex" id="feminino">
+                <label for="feminino">Feminino</label>
+            </p>
+
+            <p>
+                <input class="button_verificar" onclick="verificar()" type="button" value="Verificar">
+            </p>
+
+        </div>
+
+        <div id="res">
+            Preencha acima os dados para ver o resultado!
+
+
+
+        </div>
+
+    </section>
+
+    <footer>
+        <p>&copy; Gabriel Capoia</p>
+    </footer>
+
+</body>
+
+</html>
