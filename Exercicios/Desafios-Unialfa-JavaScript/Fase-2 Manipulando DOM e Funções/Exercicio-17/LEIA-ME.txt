@@ -1,0 +1,9 @@
+Seu primeiro desafio com JavaScript vai ser criar um algoritmo que apareça "Olá, Mundo!" na tela.
+Você vai precisar fazer isso de duas formas. Usando o comando ALERT e o comando CONSOLE.LOG
+Portanto pesquise no https://www.w3schools.com/ na parte do JavaScript como usar esses comandos.
+
+Para fazer isso ja te dei uma ajuda, voce pode criar seu codigo do JavaScript dentro desse codigo exercicio-1.html
+nesse arquivo do primeiro exercicio tem uma tag script, atraves dessa tag voce pode programar em JS, mas lembre-se que
+dentro dela funciona apenas a linguagem JS, tags do HTML como header, nav, H1, input, ou as classes e ID's que voce passa
+para essas tags tem uma outra forma de serem trabalhadas dentro do JS, isso se chama manipulação de DOM, mas isso é um 
+assunto futuro.

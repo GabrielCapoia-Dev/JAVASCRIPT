@@ -1,0 +1,17 @@
+Olá nesse pack de exercicios será trabalhado a manipulação de DOM, alem da aplicação do JS no HTML e CSS
+
+No primeiro exercicio dessa fase voce vai ver um exemplo sobre manipulação de DOM no seu navegador, 
+mas para você poder trabalhar de forma mais dinamica recomendo você instalar no seu Visual Studio Code
+a extenção/aplicação LiveServer, pois com ele voce consegue ver as alterações no codigo em tempo real.
+Depois de intalada a extenção basta voce ir em um arquivo HTML, clicar com o botao direito e selecionar
+"Open with Five Server", isso ira gerar um mini servidor na sua maquina, fazendo isso toda e qualquer
+mudança visual no seu codigo sera visivel no momento que voce salvar, o codigo.
+
+Ok, agora sobre a manipulação de DOM voce precisa dar um GOOGLADA ai.
+
+Recomendo olharem os videos desses link:
+https://www.cursoemvideo.com/curso/javascript/aulas/entendendo-o-dom/
+
+https://www.youtube.com/watch?v=UftSB4DaRU4
+
+https://www.youtube.com/watch?v=0dBY09OJm04

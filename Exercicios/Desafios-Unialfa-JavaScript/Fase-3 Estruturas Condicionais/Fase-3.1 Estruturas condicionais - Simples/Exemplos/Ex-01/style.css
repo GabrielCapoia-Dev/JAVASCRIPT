@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(195, 255, 255, 0.745);
+    font: 18px Arial;
+}
+
+#quadro{
+    width: 600px;
+    height: 400px;
+    background-color: rgba(18, 57, 121, 0.911);
+    text-align: center;
+    margin: auto;
+    margin-top: 60px;
+    border: 2px solid rgb(0, 9, 80);
+    border-radius: 50px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.952);
+    padding: 50px;
+}
+
+h1{
+    margin-top: 30px;
+    color: white;
+
+}
+
+.conteiner{
+    display: inline-flex;
+    margin-top: 55px;
+    font-size: 20pt;
+    color: white;
+}
+
+#velocimetro{
+    
+    font-size: 30px;
+    width: 60px;
+    height: 30px;
+}
+
+#btn{
+    padding: 5px;
+    font-size: 15pt;
+    background-color: rgba(135, 248, 135, 0.9);
+    border-style: none;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.526);
+}
+#btn:hover{
+    background-color: rgb(64, 165, 64);
+}
+.botao{
+    margin-top: 15px;
+}

@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font: 400 16px Arial;
+    color: white;
+}
+
+.conteiner {
+    width: 800px;
+    height: 250px;
+    background-color: rgba(17, 109, 89, 0.863);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 9px 5px 20px rgba(36, 36, 36, 0.664);
+    padding: 10px;
+} 
+.grid-nome-email{
+    display: grid;
+    grid-template-columns: 1f 1f  ;
+    display: inline-flex;
+    width: 750px;
+    margin-top: 20px;
+}
+.coluna-dados{
+    padding: 10px;
+    
+}
+.coluna-dados input{
+    padding: 15px;
+    width: 368px;
+    border-radius: 10px;
+    border-style: none;
+}
+
+#enviar-formulario{
+    padding: 10px;
+    width: 80px;
+    color: white;
+    background-color: rgba(0, 128, 0, 0.644);
+    margin-left: 10px;
+    border-style: none;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 65, 0);
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}

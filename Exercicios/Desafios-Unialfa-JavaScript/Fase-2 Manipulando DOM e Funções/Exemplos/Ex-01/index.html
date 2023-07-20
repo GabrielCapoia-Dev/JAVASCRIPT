@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somar numeros</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <!--O atributo DEFER serve para que o JS linkado no HTML seja lido por ultimo
+    dessa forma voce nao precisa ficar colocando seus scripts no final do HTML, voce pode
+    linkar seu arquivo JS no topo do HTML, mantendo assim um codigo limpo-->
+</head>
+
+<body>
+    <section id="quadro">
+        <h1>Aqui é possivel somar dois numeros</h1>
+        <div class="grid-numeros">
+            
+
+            <div class="caixa-texto">
+                <input type="text" placeholder="Nº1" name="operador" id="operador">
+            </div>
+            
+            <p class="operadores-matematicos" >+</p>
+
+            <div class="caixa-texto">
+                <input type="text" placeholder="Nº2" name="operando" id="operando">
+            </div>
+
+            <p class="operadores-matematicos" >=</p>
+
+            <div id="resultado">
+               
+            </div>
+
+        </div>
+        <div class="botao">
+            <input type="button" id="btn" value="Somar" onclick="somar()">
+        </div>
+    
+    </section>
+
+
+
+
+
+
+
+</body>
+
+</html>

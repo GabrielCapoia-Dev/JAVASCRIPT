@@ -1,0 +1,8 @@
+Esses são alguns exemplos de Manipulação de DOM, basicamente voce pega uma tag do HTML
+e transforma em uma variável. Seu desafio agora é fazer com que todos os exercicios
+da fase 2 tenham um HTML e CSS personalizado, alem de manipular o DOM para conseguir
+resultados atraves do JS, claro que esses resultados devem aparecer na tela, como nos
+exemplos mostrados.
+
+Essa lista de exercicios são exatamente os mesmos da fase 1, a unica coisa que muda é o DOM
+oque basicamente ja aumenta drasticamente a dificaldade. Boa Sorte!

@@ -1,0 +1,23 @@
+Olá nesse pack de exercicios será trabalhado o basico de JavaScript.
+
+Aqui é importante que voce ja tenha um conhecimento previo sobre HTML
+pois voce vai basicamente entender a logica de sintaxe da linguagem
+como coletar algumas informações do usuario e ver a resposta atraves do codigo 
+e manipular variaveis e caracteres.
+Mas lembre-se, a busca do conhecimento depende de voce, nesse caso nao vou te
+ensinar nada, voce vai apenas aplicar oque aprendeu atraves de suas proprias pesquisas.
+
+Aqui vao algumas fontes de pesquisas:
+O site: https://www.w3schools.com/js/default.asp
+O site: https://developer.mozilla.org/pt-BR/
+
+O curso gratuito do Professor Gustavo Guanabara:
+No site: https://www.cursoemvideo.com/curso/javascript/
+
+Canais do YouTube que recomendo:
+
+https://www.youtube.com/@codigofontetv - CODIGO FONTE TV
+
+https://www.youtube.com/@FilipeDeschamps - Filipe Deschamps
+
+https://www.youtube.com/@MatheusBattisti - Matheus Battisti - Hora de Codar

@@ -1,0 +1,14 @@
+Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boasvindas para ela:
+Ex:
+
+Qual é o seu nome? 
+
+João da Silva
+
+Olá João da Silva, é um prazer te conhecer!
+
+Para fazer isso voce vai usar dessa vez o PROMPT, pesquise no w3schools como se utiliza o PROMPT, caso não encontre
+nada que te ajude lembre-se, todo bom programador tem que aprender a se virar encontrando respostas para suas perguntas
+algumas pesquisas no GOOGLE e voce ja vai estar craque nisso, boa sorte!
+
+Nesse exercicio ja esta a tag script declarada, então nao precisa se preocupar com isso por enquanto

@@ -1,0 +1,18 @@
+Crie um programa que leia o nome e o salário de um funcionário, mostrando no
+final uma mensagem.
+Ex:
+Nome do Funcionário: Maria do Carmo
+Salário: 1850,45
+O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.
+
+Para fazer isso voce precisa entender sobre manipulação de variaveis, como declarar uma variavel como numero ou caractere.
+Para isso é bem simples, sempres que voce for declarar uma variavel e colocar o valor dela, coloque esse valor como Number 
+e entre parenteses coloque oque deseja que seja o valor da variavel, como por exemplo um PROMPT, assim todo o valor numererico
+inserido no PROMPT pelo usuario vai ser covertido para numero. Ai voce se pergunta, "E porque precisa fazer isso?" bem tudo
+que é colocado dentro do PROMPT pelo usuario vai ser sub-entendido como caractere.
+
+Para resolver esses exercicio voce precisa pesquisar sobre Tipos de variaveis e concatenação da uma pesquisada no 
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
+
+aqui voce com certeza vai conseguir se orientar
