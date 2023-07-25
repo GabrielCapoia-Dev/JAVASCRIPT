@@ -1,7 +1,13 @@
 function verificar() {
     var data = new Date()
     var ano = data.getFullYear()
+
+ 
+
     var formulario_ano = document.getElementById('texto_ano')
+
+
+
     var res = document.querySelector('div#res')
     //Essa condição testa de o usuario nao colocou nada no ano, se o ano é maior que o ano atual, se o usuario digitou zero, ou se o usuario degitou um numero com mais de 4 numeros.
     if (formulario_ano.value.length == 0 || Number(formulario_ano.value) > ano || Number(formulario_ano.value) == 0 || formulario_ano.value.length != 4) {
@@ -16,6 +22,9 @@ function verificar() {
         var imagem = document.createElement('img')
         imagem.setAttribute('id', 'foto')
         
+        
+
+
         if (formulario_sexo[0].checked) {
             genero = 'Homem'
             if (idade_ano >= 0 && idade_ano <= 13) {

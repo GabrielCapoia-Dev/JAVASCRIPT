@@ -6,11 +6,14 @@ let valores = []//Isso é um vetor
 
 function isNumero(n){
     if(Number(n) >= 1 && Number(n) <= 100) {
+        console.log('verdadeiro')
         return true
     } else {
+        console.log("Falso")
         return false
     }
 }
+
 
 function inLista(n,l){
     if(l.indexOf(Number(n)) != -1){
